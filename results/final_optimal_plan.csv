@@ -1,0 +1,2 @@
+blocked_track,maintenance_slot,affected_trains,predicted_delay_min,congestion_level,impact_score,ML_recommendation,system_decision
+BZA → EE,10:00 - 12:00,30,80.26,HIGH,204.52,REJECTED,NO SAFE SLOT - LOWEST IMPACT SLOT SHOWN FOR REVIEW
